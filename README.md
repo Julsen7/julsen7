@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on a minecraft proxy and backend plugin
 - 🤔 I’m looking for help with minecraft development
 - 💬 Ask me about minecraft development
-- 📫 How to reach me: julsen.github@t-online.de
+- 📫 How to reach me: business.julsen@t-online.de
 - ⚡ Fun fact: Elephants cant sweat
 
 ## 🌐 Socials:
